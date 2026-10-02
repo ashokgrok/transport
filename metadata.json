@@ -1,0 +1,6 @@
+{
+  "name": "CITRAM Control Tower Portal",
+  "description": "Multi-modal real-time transport control tower portal for Consorcio Regional de Transportes de Madrid (CRTM). Incident triage, alert correlation, runbooks, intermodal connection protection, and multi-tenant operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
